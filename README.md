@@ -33,7 +33,7 @@ A. To install the executable file of this system follow these steps:
 10. Select a directory to store your app, and then 'Next'. 
 11. Click on 'Start'. 
 12. Click on 'next'. 
-13.Click on 'exit'. 
+13. Click on 'exit'. 
 14. look for app in the desktop. 
 15. if you have a xampp, open it and start mysql before running the DCSC application. 
 
